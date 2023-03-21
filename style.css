@@ -1,0 +1,9 @@
+body, html {
+    margin: 0px;
+}
+
+.header {
+    width: 100vw;
+    height: 50px;
+    border-bottom: 1px solid gray;
+}
